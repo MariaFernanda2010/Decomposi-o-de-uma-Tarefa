@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(253, 144, 162);
+}
+
+h2{
+    color: pink;
+}
+
+ul, ol {
+    background-color: rgb(219, 219, 219);
+padding: 15px;
+border-radius: 8px;
+}
+
+li {
+margin: 5px 0;
+}
